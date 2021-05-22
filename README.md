@@ -1,4 +1,4 @@
-# FroyoSwap Router
+# FroyoSwap Periphery
 
 ### Bsc-Test
 
@@ -15,5 +15,4 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
-"# froyo-swap-periphery" 
-"# froyo-swap-periphery" 
+
